@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrafficLight</string>
+    <string name="content_description">greyTraffic</string>
+    <string name="content_description2">startButton</string>
+</resources>
